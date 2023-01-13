@@ -1,4 +1,4 @@
-# Emotion-Onomatopoeia-Dictionary
+# Emotion_Onomatopoeia_Dictionary
 Recursionのproject1課題
 
 上部のそれぞれの感情のカテゴリーをクリックすると、その感情を表す擬音語を集めたセクターにジャンプすることができるアプリケーションです。
